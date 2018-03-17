@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AndroidGridLayout</string>
+    <string name="name">POSADA BONITA</string>
+    <string name="profile">Perfil</string>
+    <string name="rooms">Rooms</string>
+    <string name="room">Habitaciones</string>
+    <string name="spa">Spa</string>
+    <string name="pack">Paquetes</string>
+    <string name="sales">Ofertas</string>
+    <string name="location">Localización</string>
+    <string name="reservations">Reservaciones</string>
+    <string name="food">Comida</string>
+    <string name="places">Turismo</string>
+    <string name="contact">Contacto</string>
+    <string name="name_place">Name</string>
+    <string name="more">Fotos</string>
+    <string name="temple_order">Templo Tercera Orden</string>
+    <string name="name_package">Nombre Paquete</string>
+    <string name="price_package">Costo Paquete</string>
+    <string name="description_package">Descripción del Paquete</string>
+    <string name="choose_image">Elegir Imagen</string>
+    <string name="add">Añadir</string>
+    <string name="list_package">Listar</string>
+    <string name="package_name">Nombre Paquete</string>
+    <string name="cost">Costo</string>
+    <string name="update">Actualizar</string>
+</resources>
